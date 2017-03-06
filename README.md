@@ -2,6 +2,7 @@
 LaTeX predložak za seminarske radove
 
 Da bi koristili ferotex predložak prvo instaliraj sljedeće programe:
+
 1. MikTex http://miktex.org/download
 (engine za latex i njega je potrebno prvo instalirati)
 
